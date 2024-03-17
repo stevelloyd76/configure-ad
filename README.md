@@ -20,11 +20,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
+- Windows 10 (22H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
+- Setup Resources in Azure - Virtual Machines x2
 - Step 2
 - Step 3
 - Step 4
@@ -48,7 +48,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="ECB4B08B-39B1-4CAB-82D8-B8A030F5E2C8" src="https://github.com/stevelloyd76/configure-ad/assets/162848869/f9fd4ec9-d291-477d-bf14-8c6e326580d6">
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
